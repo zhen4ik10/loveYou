@@ -48,8 +48,8 @@ img {
     transition: all .8s;
 }
 
-.block iframe {
-    max-width: 100% !important;
+.video iframe {
+    max-width: 100%;
 }
 
 .block:target {
